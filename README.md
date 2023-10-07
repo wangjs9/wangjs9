@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 A fourth-year PhD Student in HKPolyU Department of Computing
-- 🔭 I'm currently working on NLP for social good
+- 🔭 I'm currently working on NLP for Social Good and Emotion-Aware Conversation
