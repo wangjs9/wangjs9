@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 A fourth-year PhD Student in HKPolyU Department of Computing
+- 😄 A PhD fourth-year Student in the Department of Computing at Hong Kong Polytechnic University.
 - 🔭 I'm currently working on NLP for Social Good and Emotion-Aware Conversation
