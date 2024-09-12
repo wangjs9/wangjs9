@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 A PhD fourth-year Student in the Department of Computing at Hong Kong Polytechnic University.
-- 🔭 I'm currently working on NLP for Social Good and Emotion-Aware Conversation
+- 😄 A final PhD Student in the Department of Computing at Hong Kong Polytechnic University.
+- 🔭 I'm currently working on NLP for Social Good and Emotion-Aware Conversation.
+- 🤔 I’m looking for a job.
+- 📫 How to reach me: csjwang@comp.polyu.edu.hk
